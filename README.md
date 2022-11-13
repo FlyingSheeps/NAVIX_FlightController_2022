@@ -3,7 +3,6 @@ Flying robots maker club NAVIX at Nagoya University joined the competition with 
 
 NAVIX-X4_Machina.xlsm  
 機体設計に用いた諸元などを記載  
-一応頑張ってモデル計算しようとした痕跡がある．（今後xflrで計算したモデルに置換予定） 
 
 NAVIX-X4_Machina  
 製図関係データ．AutoCADがあれば.scrファイルをそのまま読み込める． 
@@ -23,6 +22,7 @@ LED2個2系統
 リセットボタン  
 ESCからの電源をマイコン向け3.3Vに降圧する電源系  
 を備える．  
-JLCPCBにmachinev2.zip渡して0.6mm厚二層で頼むと同じやつが届くよ．  
+JLCPCBにmachinev2.zip渡して0.6mm厚二層で頼むと同じやつが届くよ．    
+パーツは全て秋月で購入可能．
 
 MITライセンスだよ！　まあそのまま使う人いないと思うけど．
