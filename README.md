@@ -1,7 +1,7 @@
 # NAVIX_FlightController_2022
 Flying robots club NAVIX at Nagoya University joined the competition with this flight controller system.
 
-NAVIX-X4_Machina.xlsm  
+## NAVIX-X4_Machina.xlsm  
 機体設計に用いた諸元などを記載  
 
 NAVIX-X4_Machina  
