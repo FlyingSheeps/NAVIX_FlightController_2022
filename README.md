@@ -10,6 +10,8 @@ NAVIX-X4_Machina
 Machina_program  
 ArduinoIDE用プログラム．ESP32にUSBシリアル変換を用いて書き込む．  
 ライブラリとかは各自の環境で用意してください．現状そのまま書き込めないので注意．
+20221215：追記　最新版BolderFlightSystems/SBUSには対応していません．  
+簡単には，SbusRxのコンストラクタの記述が変わって，引数に&Serial1の他rxpin,txpin,trueが必要です．
 
 machina_PCB  
 ESP32を用いたフライトコントローラー基板．  
